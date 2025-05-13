@@ -19,3 +19,15 @@ Edge Case Handling
 
 Examples and Dry Runs (where needed)
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0190-reverse-bits) |
+<!---LeetCode Topics End-->
