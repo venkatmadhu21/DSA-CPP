@@ -40,4 +40,12 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0338-counting-bits) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
