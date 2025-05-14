@@ -44,8 +44,10 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
