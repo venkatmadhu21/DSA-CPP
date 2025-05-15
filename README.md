@@ -45,14 +45,20 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0020-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0155-min-stack) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
