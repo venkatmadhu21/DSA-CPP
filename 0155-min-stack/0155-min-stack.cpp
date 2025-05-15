@@ -1,14 +1,10 @@
- 
 class MinStack {
 private:
     stack<int> mainStack;
     stack<int> minStack;
-
 public:
-    MinStack() {
-        // Constructor initializes empty stacks
+    MinStack() {  
     }
-
     void push(int val) {
         mainStack.push(val);
         if (minStack.empty() || val <= minStack.top()) {
@@ -17,7 +13,6 @@ public:
             minStack.push(minStack.top());
         }
     }
-
     void pop() {
         if (!mainStack.empty()) {
             mainStack.pop();
