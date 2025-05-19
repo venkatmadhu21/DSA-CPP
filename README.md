@@ -61,6 +61,7 @@ Examples and Dry Runs (where needed)
 | [0155-min-stack](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -81,16 +82,26 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
 ## Array
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
