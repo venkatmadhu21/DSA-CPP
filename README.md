@@ -90,6 +90,7 @@ Examples and Dry Runs (where needed)
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
@@ -103,6 +104,7 @@ Examples and Dry Runs (where needed)
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0035-search-insert-position) |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
 ## Ordered Set
