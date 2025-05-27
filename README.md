@@ -99,6 +99,7 @@ Examples and Dry Runs (where needed)
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
+| [0907-koko-eating-bananas](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0907-koko-eating-bananas) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ Examples and Dry Runs (where needed)
 | [0035-search-insert-position](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
+| [0907-koko-eating-bananas](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0907-koko-eating-bananas) |
 ## Ordered Set
 |  |
 | ------- |
