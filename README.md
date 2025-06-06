@@ -35,6 +35,7 @@ Examples and Dry Runs (where needed)
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0227-basic-calculator-ii) |
 | [0371-sum-of-two-integers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0371-sum-of-two-integers) |
@@ -120,4 +121,8 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
