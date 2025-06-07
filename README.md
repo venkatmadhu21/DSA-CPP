@@ -43,12 +43,14 @@ Examples and Dry Runs (where needed)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
 | [0338-counting-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0338-counting-bits) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
@@ -128,4 +130,8 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0050-powx-n](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0394-decode-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
