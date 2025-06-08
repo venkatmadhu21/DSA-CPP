@@ -100,6 +100,7 @@ Examples and Dry Runs (where needed)
 | [0033-search-in-rotated-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -137,6 +138,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
