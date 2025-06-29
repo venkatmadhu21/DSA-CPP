@@ -79,6 +79,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0155-min-stack) |
+| [0838-design-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0838-design-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
+| [0838-design-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0838-design-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
