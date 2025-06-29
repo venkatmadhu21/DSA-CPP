@@ -117,6 +117,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
@@ -146,4 +147,12 @@ Examples and Dry Runs (where needed)
 | [0040-combination-sum-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
