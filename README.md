@@ -137,6 +137,7 @@ Examples and Dry Runs (where needed)
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0394-decode-string) |
 ## Backtracking
@@ -152,6 +153,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0838-design-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0838-design-linked-list) |
