@@ -119,6 +119,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0142-linked-list-cycle-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
@@ -159,6 +160,7 @@ Examples and Dry Runs (where needed)
 | [0061-rotate-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0838-design-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
@@ -169,6 +171,7 @@ Examples and Dry Runs (where needed)
 | [0061-rotate-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0202-happy-number) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
