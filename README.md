@@ -38,6 +38,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0050-powx-n](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0227-basic-calculator-ii) |
 | [0371-sum-of-two-integers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0371-sum-of-two-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -119,6 +120,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
@@ -168,5 +170,6 @@ Examples and Dry Runs (where needed)
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0202-happy-number) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
