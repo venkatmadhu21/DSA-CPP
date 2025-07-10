@@ -68,6 +68,7 @@ Examples and Dry Runs (where needed)
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
@@ -142,6 +143,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
@@ -162,6 +164,7 @@ Examples and Dry Runs (where needed)
 | [0086-partition-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -174,5 +177,6 @@ Examples and Dry Runs (where needed)
 | [0142-linked-list-cycle-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
