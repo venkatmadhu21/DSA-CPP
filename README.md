@@ -163,6 +163,7 @@ Examples and Dry Runs (where needed)
 | [0061-rotate-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0206-reverse-linked-list) |
