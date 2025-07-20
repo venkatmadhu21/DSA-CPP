@@ -63,6 +63,7 @@ Examples and Dry Runs (where needed)
 | [0394-decode-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0394-decode-string) |
 | [1078-remove-outermost-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1797-goal-parser-interpretation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1797-goal-parser-interpretation) |
 | [2470-removing-stars-from-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
