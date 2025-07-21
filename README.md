@@ -131,6 +131,7 @@ Examples and Dry Runs (where needed)
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0907-koko-eating-bananas) |
+| [1127-last-stone-weight](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1127-last-stone-weight) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
@@ -219,4 +220,8 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
