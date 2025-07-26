@@ -131,6 +131,7 @@ Examples and Dry Runs (where needed)
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0907-koko-eating-bananas) |
 | [1127-last-stone-weight](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1127-last-stone-weight) |
@@ -145,6 +146,7 @@ Examples and Dry Runs (where needed)
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
