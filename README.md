@@ -25,6 +25,7 @@ Examples and Dry Runs (where needed)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -128,6 +129,7 @@ Examples and Dry Runs (where needed)
 | [0046-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0162-find-peak-element) |
@@ -250,6 +252,7 @@ Examples and Dry Runs (where needed)
 | [0101-symmetric-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
@@ -272,6 +275,7 @@ Examples and Dry Runs (where needed)
 | [0101-symmetric-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
@@ -292,4 +296,8 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0070-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
