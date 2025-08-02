@@ -64,6 +64,7 @@ Examples and Dry Runs (where needed)
 | [0151-reverse-words-in-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0394-decode-string) |
@@ -190,6 +191,7 @@ Examples and Dry Runs (where needed)
 | [0040-combination-sum-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -251,6 +253,7 @@ Examples and Dry Runs (where needed)
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -272,6 +275,7 @@ Examples and Dry Runs (where needed)
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -281,6 +285,7 @@ Examples and Dry Runs (where needed)
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 ## Memoization
 |  |
