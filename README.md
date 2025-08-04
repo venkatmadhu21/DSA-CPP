@@ -252,6 +252,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0102-binary-tree-level-order-traversal) |
@@ -283,6 +284,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0102-binary-tree-level-order-traversal) |
@@ -302,6 +304,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0101-symmetric-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -321,6 +324,7 @@ Examples and Dry Runs (where needed)
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
