@@ -22,9 +22,10 @@
  */
 class Solution {
 public:
-    int minDiff = INT_MAX;
+        int minDiff = INT_MAX;
     TreeNode* prev = nullptr;
     void inorder(TreeNode* root) {
+    
         if (!root) return;
         inorder(root->left);
         if (prev != nullptr) {
