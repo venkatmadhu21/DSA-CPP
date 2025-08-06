@@ -267,6 +267,7 @@ Examples and Dry Runs (where needed)
 | [0173-binary-search-tree-iterator](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0437-path-sum-iii) |
@@ -283,6 +284,7 @@ Examples and Dry Runs (where needed)
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -302,6 +304,7 @@ Examples and Dry Runs (where needed)
 | [0173-binary-search-tree-iterator](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0437-path-sum-iii) |
@@ -320,6 +323,7 @@ Examples and Dry Runs (where needed)
 | [0144-binary-tree-preorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0437-path-sum-iii) |
