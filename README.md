@@ -162,6 +162,7 @@ Examples and Dry Runs (where needed)
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0652-find-duplicate-subtrees](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0652-find-duplicate-subtrees) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
@@ -273,6 +274,7 @@ Examples and Dry Runs (where needed)
 | [0437-path-sum-iii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -311,6 +313,7 @@ Examples and Dry Runs (where needed)
 | [0437-path-sum-iii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -331,6 +334,7 @@ Examples and Dry Runs (where needed)
 | [0437-path-sum-iii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1092-maximum-difference-between-node-and-ancestor) |
