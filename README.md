@@ -118,6 +118,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0011-container-with-most-water](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
+| [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Examples and Dry Runs (where needed)
 | [1016-subarray-sums-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1127-last-stone-weight](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1127-last-stone-weight) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1127-last-stone-weight) |
+| [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
 | [2161-stock-price-fluctuation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2161-stock-price-fluctuation) |
 ## Tree
 |  |
