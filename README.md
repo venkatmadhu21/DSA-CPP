@@ -27,6 +27,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Examples and Dry Runs (where needed)
 | [0238-product-of-array-except-self](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
@@ -170,6 +172,7 @@ Examples and Dry Runs (where needed)
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -260,6 +263,7 @@ Examples and Dry Runs (where needed)
 | [0088-merge-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
 ## Prefix Sum
@@ -274,6 +278,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1127-last-stone-weight) |
 | [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
@@ -404,4 +409,16 @@ Examples and Dry Runs (where needed)
 | [0295-find-median-from-data-stream](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2161-stock-price-fluctuation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2161-stock-price-fluctuation) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
