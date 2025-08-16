@@ -153,6 +153,7 @@ Examples and Dry Runs (where needed)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0303-range-sum-query-immutable) |
@@ -338,6 +339,7 @@ Examples and Dry Runs (where needed)
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
@@ -385,6 +387,7 @@ Examples and Dry Runs (where needed)
 | [0144-binary-tree-preorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0257-binary-tree-paths) |
@@ -448,6 +451,7 @@ Examples and Dry Runs (where needed)
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1036-rotting-oranges) |
 ## Queue
@@ -466,4 +470,8 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0948-sort-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
