@@ -59,6 +59,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0022-generate-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0338-counting-bits) |
@@ -127,6 +128,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
 | [1448-maximum-69-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1448-maximum-69-number) |
 | [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
@@ -147,6 +149,7 @@ Examples and Dry Runs (where needed)
 | [0035-search-insert-position](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0088-merge-sorted-array) |
