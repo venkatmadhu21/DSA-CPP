@@ -78,6 +78,7 @@ Examples and Dry Runs (where needed)
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0394-decode-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1797-goal-parser-interpretation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1797-goal-parser-interpretation) |
@@ -102,6 +103,7 @@ Examples and Dry Runs (where needed)
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -130,6 +132,7 @@ Examples and Dry Runs (where needed)
 | [0011-container-with-most-water](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1448-maximum-69-number) |
 | [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
 ## Monotonic Stack
