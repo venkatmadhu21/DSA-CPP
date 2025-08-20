@@ -172,6 +172,7 @@ Examples and Dry Runs (where needed)
 | [0303-range-sum-query-immutable](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0406-queue-reconstruction-by-height) |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
@@ -291,6 +292,7 @@ Examples and Dry Runs (where needed)
 | [0295-find-median-from-data-stream](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0406-queue-reconstruction-by-height) |
 | [0948-sort-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
@@ -435,6 +437,7 @@ Examples and Dry Runs (where needed)
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0406-queue-reconstruction-by-height) |
 | [0729-my-calendar-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
 ## Data Stream
@@ -487,4 +490,8 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
