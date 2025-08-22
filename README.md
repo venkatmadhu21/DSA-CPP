@@ -191,6 +191,7 @@ Examples and Dry Runs (where needed)
 | [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -472,6 +473,7 @@ Examples and Dry Runs (where needed)
 | [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1036-rotting-oranges) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Queue
 |  |
 | ------- |
