@@ -15,7 +15,6 @@ public:
             sum += cardPoints[n - takeRight];              
             maxi = max(maxi, sum);
         }
-
         return maxi;
     }
 };
