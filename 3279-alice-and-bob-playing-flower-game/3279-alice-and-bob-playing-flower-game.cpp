@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long flowerGame(int n, int m) {
-         int odd_x = (n + 1) / 2;
+    int odd_x = (n + 1) / 2;
     long long  even_x = n / 2;
     long long  odd_y = (m + 1) / 2;
     long long  even_y = m / 2;
