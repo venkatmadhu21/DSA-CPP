@@ -54,6 +54,7 @@ Examples and Dry Runs (where needed)
 | [1448-maximum-69-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1448-maximum-69-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Dynamic Programming
 |  |
 | ------- |
