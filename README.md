@@ -155,6 +155,7 @@ Examples and Dry Runs (where needed)
 | [0033-search-in-rotated-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0045-jump-game-ii) |
@@ -202,6 +203,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
@@ -478,6 +480,7 @@ Examples and Dry Runs (where needed)
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
