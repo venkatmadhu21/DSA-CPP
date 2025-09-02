@@ -25,6 +25,7 @@ Examples and Dry Runs (where needed)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
@@ -61,6 +62,7 @@ Examples and Dry Runs (where needed)
 | [0022-generate-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0118-pascals-triangle) |
@@ -162,6 +164,7 @@ Examples and Dry Runs (where needed)
 | [0040-combination-sum-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0075-sort-colors) |
