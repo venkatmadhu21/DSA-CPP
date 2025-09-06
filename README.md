@@ -171,6 +171,7 @@ Examples and Dry Runs (where needed)
 | [0048-rotate-image](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0078-subsets) |
@@ -315,6 +316,7 @@ Examples and Dry Runs (where needed)
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
