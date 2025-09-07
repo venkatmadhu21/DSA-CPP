@@ -28,6 +28,7 @@ Examples and Dry Runs (where needed)
 | [0053-maximum-subarray](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
@@ -190,6 +191,7 @@ Examples and Dry Runs (where needed)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0303-range-sum-query-immutable) |
@@ -248,6 +250,7 @@ Examples and Dry Runs (where needed)
 | [0162-find-peak-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
@@ -513,6 +516,7 @@ Examples and Dry Runs (where needed)
 | [0048-rotate-image](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1036-rotting-oranges) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
