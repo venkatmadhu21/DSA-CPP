@@ -6,7 +6,7 @@ public:
     bool canEat(vector<int>& piles, int h, int speed) {
         long long hours = 0;
         for (int bananas : piles) {
-            hours += (bananas + speed - 1) / speed;
+        hours += ceil((double)bananas / speed);
             if (hours > h) return false; 
         }
         return hours <= h;
