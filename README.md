@@ -206,6 +206,7 @@ Examples and Dry Runs (where needed)
 | [0560-subarray-sum-equals-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
@@ -349,6 +350,7 @@ Examples and Dry Runs (where needed)
 | [0238-product-of-array-except-self](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
