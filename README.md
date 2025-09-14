@@ -49,6 +49,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0048-rotate-image](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0202-happy-number) |
@@ -72,6 +73,7 @@ Examples and Dry Runs (where needed)
 | [0045-jump-game-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0119-pascals-triangle-ii) |
@@ -569,4 +571,8 @@ Examples and Dry Runs (where needed)
 | [0643-maximum-average-subarray-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
