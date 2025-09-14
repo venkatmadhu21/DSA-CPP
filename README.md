@@ -76,6 +76,7 @@ Examples and Dry Runs (where needed)
 | [0118-pascals-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
@@ -190,6 +191,7 @@ Examples and Dry Runs (where needed)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
