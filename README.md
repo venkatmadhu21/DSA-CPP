@@ -168,6 +168,7 @@ Examples and Dry Runs (where needed)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
@@ -236,6 +237,7 @@ Examples and Dry Runs (where needed)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
