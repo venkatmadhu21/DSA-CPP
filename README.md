@@ -101,6 +101,7 @@ Examples and Dry Runs (where needed)
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1797-goal-parser-interpretation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1797-goal-parser-interpretation) |
 | [2470-removing-stars-from-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3811-reverse-degree-of-a-string) |
@@ -254,6 +255,7 @@ Examples and Dry Runs (where needed)
 | [0645-set-mismatch](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0652-find-duplicate-subtrees) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2161-stock-price-fluctuation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2161-stock-price-fluctuation) |
 ## Binary Search
 |  |
