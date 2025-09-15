@@ -171,6 +171,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0001-two-sum](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -325,6 +326,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0061-rotate-list) |
@@ -347,6 +349,7 @@ Examples and Dry Runs (where needed)
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0088-merge-sorted-array) |
