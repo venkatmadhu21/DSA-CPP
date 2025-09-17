@@ -47,6 +47,7 @@ Examples and Dry Runs (where needed)
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0062-unique-paths) |
@@ -289,6 +290,7 @@ Examples and Dry Runs (where needed)
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0206-reverse-linked-list) |
@@ -309,6 +311,7 @@ Examples and Dry Runs (where needed)
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0061-rotate-list) |
