@@ -63,6 +63,7 @@ Examples and Dry Runs (where needed)
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1448-maximum-69-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3830-find-closest-person) |
@@ -352,6 +353,7 @@ Examples and Dry Runs (where needed)
 | [0344-reverse-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -589,4 +591,8 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
