@@ -80,6 +80,7 @@ Examples and Dry Runs (where needed)
 | [0070-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
@@ -199,6 +200,7 @@ Examples and Dry Runs (where needed)
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
