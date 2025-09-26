@@ -162,6 +162,7 @@ Examples and Dry Runs (where needed)
 | [0055-jump-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
+| [0611-valid-triangle-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1448-maximum-69-number) |
 | [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
@@ -223,6 +224,7 @@ Examples and Dry Runs (where needed)
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0724-find-pivot-index) |
@@ -285,6 +287,7 @@ Examples and Dry Runs (where needed)
 | [0287-find-the-duplicate-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
+| [0611-valid-triangle-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
 | [0907-koko-eating-bananas](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0907-koko-eating-bananas) |
@@ -360,6 +363,7 @@ Examples and Dry Runs (where needed)
 | [0295-find-median-from-data-stream](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
@@ -376,6 +380,7 @@ Examples and Dry Runs (where needed)
 | [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0406-queue-reconstruction-by-height) |
+| [0611-valid-triangle-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
