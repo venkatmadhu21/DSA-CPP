@@ -58,6 +58,7 @@ Examples and Dry Runs (where needed)
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0371-sum-of-two-integers) |
+| [0830-largest-triangle-area](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -231,6 +232,7 @@ Examples and Dry Runs (where needed)
 | [0729-my-calendar-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
+| [0830-largest-triangle-area](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
@@ -557,6 +559,7 @@ Examples and Dry Runs (where needed)
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
 |  |
