@@ -65,6 +65,7 @@ Examples and Dry Runs (where needed)
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1642-water-bottles) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
@@ -155,6 +156,7 @@ Examples and Dry Runs (where needed)
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2470-removing-stars-from-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3811-reverse-degree-of-a-string) |
