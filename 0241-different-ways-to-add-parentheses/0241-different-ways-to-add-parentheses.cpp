@@ -8,7 +8,6 @@ public:
         for(int i = 0; i < expression.size(); i++) {
             char c = expression[i];
             if(c == '+' || c == '-' || c == '*') {
- 
                 vector<int> left = diffWaysToCompute(expression.substr(0, i));
                 vector<int> right = diffWaysToCompute(expression.substr(i+1));
  
