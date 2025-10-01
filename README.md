@@ -88,6 +88,7 @@ Examples and Dry Runs (where needed)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -224,6 +225,7 @@ Examples and Dry Runs (where needed)
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0406-queue-reconstruction-by-height) |
@@ -460,6 +462,7 @@ Examples and Dry Runs (where needed)
 | [0199-binary-tree-right-side-view](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
