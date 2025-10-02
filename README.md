@@ -107,6 +107,7 @@ Examples and Dry Runs (where needed)
 | [0032-longest-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0257-binary-tree-paths) |
@@ -279,6 +280,7 @@ Examples and Dry Runs (where needed)
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
