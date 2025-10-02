@@ -301,6 +301,7 @@ Examples and Dry Runs (where needed)
 | [0222-count-complete-tree-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
@@ -631,4 +632,8 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
