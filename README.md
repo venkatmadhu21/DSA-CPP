@@ -72,6 +72,7 @@ Examples and Dry Runs (where needed)
 | [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
@@ -162,6 +163,7 @@ Examples and Dry Runs (where needed)
 | [1642-water-bottles](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2470-removing-stars-from-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2470-removing-stars-from-a-string) |
+| [3336-water-bottles-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3336-water-bottles-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
 |  |
