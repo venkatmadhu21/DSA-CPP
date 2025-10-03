@@ -239,6 +239,7 @@ Examples and Dry Runs (where needed)
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
@@ -436,6 +437,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0948-sort-an-array) |
@@ -485,6 +487,7 @@ Examples and Dry Runs (where needed)
 | [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
@@ -609,6 +612,7 @@ Examples and Dry Runs (where needed)
 | [0074-search-a-2d-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1036-rotting-oranges) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
