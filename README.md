@@ -113,6 +113,7 @@ Examples and Dry Runs (where needed)
 | [0227-basic-calculator-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0394-decode-string) |
@@ -288,6 +289,7 @@ Examples and Dry Runs (where needed)
 | [0217-contains-duplicate](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
