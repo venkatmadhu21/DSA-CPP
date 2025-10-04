@@ -8,9 +8,9 @@ public:
             mp[key].push_back(w);
         }
         vector<vector<string>>res;
-        res.reserve(mp.size());
+        // res.reserve(mp.size());
         for(auto &p: mp){
-            res.push_back(move (p.second) );
+            res.push_back( (p.second) );
         }
         return res;
     }
