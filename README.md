@@ -82,6 +82,7 @@ Examples and Dry Runs (where needed)
 | [0005-longest-palindromic-substring](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0055-jump-game) |
@@ -137,6 +138,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0020-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
@@ -193,6 +195,7 @@ Examples and Dry Runs (where needed)
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
@@ -211,6 +214,7 @@ Examples and Dry Runs (where needed)
 | [0036-valid-sudoku](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0048-rotate-image) |
@@ -394,6 +398,7 @@ Examples and Dry Runs (where needed)
 | [0018-4sum](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
