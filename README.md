@@ -174,6 +174,7 @@ Examples and Dry Runs (where needed)
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2470-removing-stars-from-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2470-removing-stars-from-a-string) |
@@ -271,6 +272,7 @@ Examples and Dry Runs (where needed)
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
 | [0830-largest-triangle-area](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0830-largest-triangle-area) |
+| [0898-transpose-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
@@ -649,6 +651,7 @@ Examples and Dry Runs (where needed)
 | [0407-trapping-rain-water-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
+| [0898-transpose-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1036-rotting-oranges) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Queue
