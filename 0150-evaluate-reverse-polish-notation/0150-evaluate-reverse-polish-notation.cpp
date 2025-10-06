@@ -4,7 +4,7 @@ public:
         stack<int> stk;
         int a = 0, b = 0;
 
-        for (const string& token : tokens) {
+        for (auto token : tokens) {
             if (token == "+") {
                 a = stk.top(); stk.pop();
                 b = stk.top(); stk.pop();
