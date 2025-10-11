@@ -100,6 +100,7 @@ Examples and Dry Runs (where needed)
 | [0338-counting-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1236-n-th-tribonacci-number) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
 |  |
@@ -286,6 +287,7 @@ Examples and Dry Runs (where needed)
 | [1127-last-stone-weight](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1127-last-stone-weight) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -352,6 +354,7 @@ Examples and Dry Runs (where needed)
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
 | [0907-koko-eating-bananas](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Ordered Set
 |  |
 | ------- |
@@ -455,6 +458,7 @@ Examples and Dry Runs (where needed)
 | [0948-sort-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
 ## Prefix Sum
 |  |
