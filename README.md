@@ -296,6 +296,7 @@ Examples and Dry Runs (where needed)
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
 |  |
 | ------- |
