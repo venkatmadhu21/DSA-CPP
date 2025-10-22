@@ -301,6 +301,7 @@ Examples and Dry Runs (where needed)
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -360,6 +361,7 @@ Examples and Dry Runs (where needed)
 | [0907-koko-eating-bananas](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -465,6 +467,7 @@ Examples and Dry Runs (where needed)
 | [1018-largest-perimeter-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -475,6 +478,7 @@ Examples and Dry Runs (where needed)
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -700,6 +704,7 @@ Examples and Dry Runs (where needed)
 | [0643-maximum-average-subarray-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Combinatorics
 |  |
 | ------- |
