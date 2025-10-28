@@ -189,6 +189,7 @@ Examples and Dry Runs (where needed)
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3336-water-bottles-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
@@ -305,6 +306,7 @@ Examples and Dry Runs (where needed)
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Hash Table
 |  |
@@ -482,6 +484,7 @@ Examples and Dry Runs (where needed)
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Heap (Priority Queue)
 |  |
