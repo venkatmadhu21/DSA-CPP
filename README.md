@@ -106,6 +106,7 @@ Examples and Dry Runs (where needed)
 | [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Examples and Dry Runs (where needed)
 | [1078-remove-outermost-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1797-goal-parser-interpretation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1797-goal-parser-interpretation) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -210,6 +212,7 @@ Examples and Dry Runs (where needed)
 | [1018-largest-perimeter-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
 ## Monotonic Stack
 |  |
@@ -306,6 +309,7 @@ Examples and Dry Runs (where needed)
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
