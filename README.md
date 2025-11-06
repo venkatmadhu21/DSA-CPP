@@ -130,6 +130,7 @@ Examples and Dry Runs (where needed)
 | [0290-word-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
@@ -344,6 +345,7 @@ Examples and Dry Runs (where needed)
 | [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -687,6 +689,7 @@ Examples and Dry Runs (where needed)
 | [0169-majority-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -719,6 +722,7 @@ Examples and Dry Runs (where needed)
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Merge Sort
 |  |
