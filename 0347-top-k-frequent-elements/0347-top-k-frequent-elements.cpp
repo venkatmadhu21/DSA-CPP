@@ -6,7 +6,7 @@ public:
         for(int num : nums){
             mpp[num]++;
         }
-        for(auto & it : mpp){
+        for(auto  it : mpp){
             pq.push({it.second,it.first});
             if(pq.size()>k){
                 pq.pop();
@@ -20,3 +20,4 @@ public:
         return res;
     }
 };
+
