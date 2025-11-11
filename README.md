@@ -66,6 +66,7 @@ Examples and Dry Runs (where needed)
 | [1018-largest-perimeter-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1642-water-bottles) |
@@ -141,6 +142,7 @@ Examples and Dry Runs (where needed)
 | [1078-remove-outermost-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1797-goal-parser-interpretation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1797-goal-parser-interpretation) |
@@ -765,6 +767,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
