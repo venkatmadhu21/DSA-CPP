@@ -151,6 +151,7 @@ Examples and Dry Runs (where needed)
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2470-removing-stars-from-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
@@ -223,6 +224,7 @@ Examples and Dry Runs (where needed)
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -713,6 +715,7 @@ Examples and Dry Runs (where needed)
 | [0451-sort-characters-by-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Quickselect
 |  |
 | ------- |
