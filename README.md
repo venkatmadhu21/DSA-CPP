@@ -202,6 +202,7 @@ Examples and Dry Runs (where needed)
 | [2058-concatenation-of-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3336-water-bottles-ii) |
@@ -331,6 +332,7 @@ Examples and Dry Runs (where needed)
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
 | [2058-concatenation-of-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2625-increment-submatrices-by-one](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -376,6 +378,7 @@ Examples and Dry Runs (where needed)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2161-stock-price-fluctuation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2161-stock-price-fluctuation) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -511,6 +514,7 @@ Examples and Dry Runs (where needed)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Prefix Sum
 |  |
