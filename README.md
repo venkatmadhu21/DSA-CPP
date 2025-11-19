@@ -106,6 +106,7 @@ Examples and Dry Runs (where needed)
 | [0338-counting-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1236-n-th-tribonacci-number) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -310,6 +311,7 @@ Examples and Dry Runs (where needed)
 | [0729-my-calendar-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0907-koko-eating-bananas) |
