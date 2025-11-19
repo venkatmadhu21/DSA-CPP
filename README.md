@@ -304,6 +304,7 @@ Examples and Dry Runs (where needed)
 | [0643-maximum-average-subarray-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0690-employee-importance) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
