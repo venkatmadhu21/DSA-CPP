@@ -82,6 +82,7 @@ Examples and Dry Runs (where needed)
 | [3336-water-bottles-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3336-water-bottles-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
@@ -351,6 +352,7 @@ Examples and Dry Runs (where needed)
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
@@ -394,6 +396,7 @@ Examples and Dry Runs (where needed)
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
 |  |
@@ -754,6 +757,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0830-largest-triangle-area](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Matrix
 |  |
 | ------- |
