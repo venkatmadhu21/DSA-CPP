@@ -73,6 +73,7 @@ Examples and Dry Runs (where needed)
 | [1642-water-bottles](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1925-count-square-sum-triples](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2288-count-operations-to-obtain-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
@@ -836,6 +837,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1925-count-square-sum-triples) |
 ## Number Theory
 |  |
 | ------- |
