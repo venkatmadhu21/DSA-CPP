@@ -83,6 +83,7 @@ Examples and Dry Runs (where needed)
 | [3336-water-bottles-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -356,6 +357,7 @@ Examples and Dry Runs (where needed)
 | [3432-count-partitions-with-even-sum-difference](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -824,11 +826,13 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0062-unique-paths) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Interactive
 |  |
 | ------- |
