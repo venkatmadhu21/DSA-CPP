@@ -75,6 +75,7 @@ Examples and Dry Runs (where needed)
 | [1885-count-number-of-homogenous-substrings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1925-count-square-sum-triples](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -118,6 +119,7 @@ Examples and Dry Runs (where needed)
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## String
 |  |
@@ -159,6 +161,7 @@ Examples and Dry Runs (where needed)
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2211-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2470-removing-stars-from-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
