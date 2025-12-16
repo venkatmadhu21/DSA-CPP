@@ -65,6 +65,7 @@ Examples and Dry Runs (where needed)
 | [0830-largest-triangle-area](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -115,6 +116,7 @@ Examples and Dry Runs (where needed)
 | [0474-ones-and-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0747-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1236-n-th-tribonacci-number) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -731,6 +733,7 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0070-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
+| [1137-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search Tree
 |  |
