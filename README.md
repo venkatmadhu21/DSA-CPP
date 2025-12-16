@@ -121,6 +121,7 @@ Examples and Dry Runs (where needed)
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## String
 |  |
@@ -365,6 +366,7 @@ Examples and Dry Runs (where needed)
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -628,6 +630,7 @@ Examples and Dry Runs (where needed)
 | [0799-minimum-distance-between-bst-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -722,6 +725,7 @@ Examples and Dry Runs (where needed)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Memoization
 |  |
 | ------- |
