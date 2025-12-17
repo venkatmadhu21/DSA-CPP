@@ -124,6 +124,7 @@ Examples and Dry Runs (where needed)
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## String
 |  |
@@ -369,6 +370,7 @@ Examples and Dry Runs (where needed)
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
