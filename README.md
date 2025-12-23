@@ -563,6 +563,7 @@ Examples and Dry Runs (where needed)
 | [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
 | [2054-two-best-non-overlapping-events](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2054-two-best-non-overlapping-events) |
+| [2092-find-all-people-with-secret](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3433-count-mentions-per-user) |
@@ -667,6 +668,7 @@ Examples and Dry Runs (where needed)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1036-rotting-oranges) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -734,6 +736,7 @@ Examples and Dry Runs (where needed)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Memoization
 |  |
@@ -836,6 +839,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0200-number-of-islands) |
+| [2092-find-all-people-with-secret](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2092-find-all-people-with-secret) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -879,4 +883,8 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
