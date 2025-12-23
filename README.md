@@ -122,6 +122,7 @@ Examples and Dry Runs (where needed)
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2054-two-best-non-overlapping-events](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2054-two-best-non-overlapping-events) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -356,6 +357,7 @@ Examples and Dry Runs (where needed)
 | [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
+| [2054-two-best-non-overlapping-events](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -450,6 +452,7 @@ Examples and Dry Runs (where needed)
 | [0907-koko-eating-bananas](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [2054-two-best-non-overlapping-events](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Ordered Set
@@ -559,6 +562,7 @@ Examples and Dry Runs (where needed)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
+| [2054-two-best-non-overlapping-events](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3433-count-mentions-per-user) |
@@ -597,6 +601,7 @@ Examples and Dry Runs (where needed)
 | [1127-last-stone-weight](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1127-last-stone-weight) |
 | [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
+| [2054-two-best-non-overlapping-events](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2054-two-best-non-overlapping-events) |
 | [2161-stock-price-fluctuation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2161-stock-price-fluctuation) |
 ## Tree
 |  |
