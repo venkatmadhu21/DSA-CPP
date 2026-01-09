@@ -118,6 +118,7 @@ Examples and Dry Runs (where needed)
 | [0474-ones-and-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1236-n-th-tribonacci-number) |
@@ -343,6 +344,7 @@ Examples and Dry Runs (where needed)
 | [0729-my-calendar-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0759-set-intersection-size-at-least-two) |
 | [0830-largest-triangle-area](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0830-largest-triangle-area) |
