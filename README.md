@@ -119,6 +119,7 @@ Examples and Dry Runs (where needed)
 | [0474-ones-and-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1137-n-th-tribonacci-number) |
@@ -160,6 +161,7 @@ Examples and Dry Runs (where needed)
 | [0409-longest-palindrome](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
