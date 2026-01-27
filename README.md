@@ -163,6 +163,7 @@ Examples and Dry Runs (where needed)
 | [0474-ones-and-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
+| [0809-expressive-words](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0809-expressive-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1078-remove-outermost-parentheses) |
@@ -351,6 +352,7 @@ Examples and Dry Runs (where needed)
 | [0746-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0759-set-intersection-size-at-least-two) |
+| [0809-expressive-words](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0809-expressive-words) |
 | [0830-largest-triangle-area](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0898-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0904-fruit-into-baskets) |
@@ -555,6 +557,7 @@ Examples and Dry Runs (where needed)
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0611-valid-triangle-number) |
+| [0809-expressive-words](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0809-expressive-words) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
