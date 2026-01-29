@@ -257,6 +257,7 @@ Examples and Dry Runs (where needed)
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-two-city-scheduling) |
 | [1448-maximum-69-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -363,6 +364,7 @@ Examples and Dry Runs (where needed)
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-two-city-scheduling) |
 | [1036-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1127-last-stone-weight) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -588,6 +590,7 @@ Examples and Dry Runs (where needed)
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1029-two-city-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-two-city-scheduling) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
 | [2054-two-best-non-overlapping-events](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2054-two-best-non-overlapping-events) |
