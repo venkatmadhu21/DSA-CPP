@@ -31,7 +31,7 @@ int connect(int n){
     return cnt;
 }
     int makeConnected(int n, vector<vector<int>>& connections) {
-        if(connections.size() < n-1) return -1;
+        if(n-1 > connections.size()) return -1;
         int ans =0;
         bool res=false;
         makeset(n);
