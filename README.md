@@ -705,6 +705,7 @@ Examples and Dry Runs (where needed)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
@@ -777,6 +778,7 @@ Examples and Dry Runs (where needed)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -939,9 +941,11 @@ Examples and Dry Runs (where needed)
 | ------- |
 | [0547-number-of-provinces](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0684-redundant-connection) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0684-redundant-connection) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
