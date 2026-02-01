@@ -305,6 +305,7 @@ Examples and Dry Runs (where needed)
 | [0074-search-a-2d-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0118-pascals-triangle) |
@@ -547,6 +548,7 @@ Examples and Dry Runs (where needed)
 | [0042-trapping-rain-water](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0088-merge-sorted-array) |
