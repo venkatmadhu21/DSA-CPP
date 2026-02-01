@@ -699,6 +699,7 @@ Examples and Dry Runs (where needed)
 | [0617-merge-two-binary-trees](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0690-employee-importance) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -770,6 +771,7 @@ Examples and Dry Runs (where needed)
 | [0652-find-duplicate-subtrees](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0690-employee-importance) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -936,8 +938,10 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
