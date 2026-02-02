@@ -82,6 +82,7 @@ Examples and Dry Runs (where needed)
 | [2288-count-operations-to-obtain-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2965-find-missing-and-repeated-values](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3336-water-bottles-ii) |
@@ -390,6 +391,7 @@ Examples and Dry Runs (where needed)
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2625-increment-submatrices-by-one](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2965-find-missing-and-repeated-values](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -450,6 +452,7 @@ Examples and Dry Runs (where needed)
 | [2161-stock-price-fluctuation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2161-stock-price-fluctuation) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3531-count-covered-buildings) |
@@ -867,6 +870,7 @@ Examples and Dry Runs (where needed)
 | [0898-transpose-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1036-rotting-oranges) |
 | [2625-increment-submatrices-by-one](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2625-increment-submatrices-by-one) |
+| [2965-find-missing-and-repeated-values](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Queue
 |  |
