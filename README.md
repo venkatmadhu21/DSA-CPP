@@ -38,6 +38,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0078-subsets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
@@ -315,6 +316,7 @@ Examples and Dry Runs (where needed)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
