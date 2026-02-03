@@ -29,6 +29,7 @@ Examples and Dry Runs (where needed)
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
@@ -40,6 +41,7 @@ Examples and Dry Runs (where needed)
 | [0078-subsets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
