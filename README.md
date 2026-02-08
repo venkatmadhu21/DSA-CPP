@@ -973,5 +973,6 @@ Examples and Dry Runs (where needed)
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
