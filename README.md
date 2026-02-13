@@ -167,6 +167,7 @@ Examples and Dry Runs (where needed)
 | [0451-sort-characters-by-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0720-longest-word-in-dictionary](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
 | [0809-expressive-words](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0809-expressive-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0944-delete-columns-to-make-sorted) |
@@ -357,6 +358,7 @@ Examples and Dry Runs (where needed)
 | [0645-set-mismatch](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0690-employee-importance) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0720-longest-word-in-dictionary](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
@@ -451,6 +453,7 @@ Examples and Dry Runs (where needed)
 | [0645-set-mismatch](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0652-find-duplicate-subtrees) |
 | [0690-employee-importance](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0690-employee-importance) |
+| [0720-longest-word-in-dictionary](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0904-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -601,6 +604,7 @@ Examples and Dry Runs (where needed)
 | [0451-sort-characters-by-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0720-longest-word-in-dictionary) |
 | [0759-set-intersection-size-at-least-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0948-sort-an-array) |
@@ -979,4 +983,8 @@ Examples and Dry Runs (where needed)
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1757-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
