@@ -8,9 +8,6 @@ public:
                 subset.pop_back();
         }
     }
-
-
-
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> result;
         vector<int> subset;
