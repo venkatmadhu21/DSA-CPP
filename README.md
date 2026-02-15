@@ -269,6 +269,7 @@ Examples and Dry Runs (where needed)
 | [0611-valid-triangle-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0881-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-two-city-scheduling) |
@@ -376,6 +377,7 @@ Examples and Dry Runs (where needed)
 | [0759-set-intersection-size-at-least-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0759-set-intersection-size-at-least-two) |
 | [0809-expressive-words](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0809-expressive-words) |
 | [0830-largest-triangle-area](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0830-largest-triangle-area) |
+| [0881-boats-to-save-people](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0898-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0907-koko-eating-bananas) |
@@ -590,6 +592,7 @@ Examples and Dry Runs (where needed)
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0809-expressive-words](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0809-expressive-words) |
+| [0881-boats-to-save-people](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
@@ -617,6 +620,7 @@ Examples and Dry Runs (where needed)
 | [0720-longest-word-in-dictionary](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0720-longest-word-in-dictionary) |
 | [0759-set-intersection-size-at-least-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
