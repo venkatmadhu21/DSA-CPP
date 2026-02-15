@@ -38,6 +38,7 @@ Examples and Dry Runs (where needed)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0190-reverse-bits) |
@@ -59,6 +60,7 @@ Examples and Dry Runs (where needed)
 | [0050-powx-n](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0202-happy-number) |
@@ -151,6 +153,7 @@ Examples and Dry Runs (where needed)
 | [0022-generate-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0205-isomorphic-strings) |
@@ -234,6 +237,7 @@ Examples and Dry Runs (where needed)
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
