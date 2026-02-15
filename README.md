@@ -340,6 +340,7 @@ Examples and Dry Runs (where needed)
 | [0213-house-robber-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0240-search-a-2d-matrix-ii) |
@@ -444,6 +445,7 @@ Examples and Dry Runs (where needed)
 | [0202-happy-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
@@ -924,6 +926,7 @@ Examples and Dry Runs (where needed)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1004-max-consecutive-ones-iii) |
