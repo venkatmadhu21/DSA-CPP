@@ -44,6 +44,7 @@ Examples and Dry Runs (where needed)
 | [0190-reverse-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0338-counting-bits) |
@@ -65,6 +66,7 @@ Examples and Dry Runs (where needed)
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0371-sum-of-two-integers) |
@@ -535,6 +537,7 @@ Examples and Dry Runs (where needed)
 | [0024-swap-nodes-in-pairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0394-decode-string) |
