@@ -246,6 +246,7 @@ Examples and Dry Runs (where needed)
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2105-watering-plants-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2105-watering-plants-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -405,6 +406,7 @@ Examples and Dry Runs (where needed)
 | [1962-single-threaded-cpu](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1962-single-threaded-cpu) |
 | [2054-two-best-non-overlapping-events](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2058-concatenation-of-array) |
+| [2105-watering-plants-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2105-watering-plants-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -596,6 +598,7 @@ Examples and Dry Runs (where needed)
 | [0881-boats-to-save-people](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0977-squares-of-a-sorted-array) |
+| [2105-watering-plants-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2105-watering-plants-ii) |
 | [2481-strictly-palindromic-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
