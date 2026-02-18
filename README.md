@@ -50,6 +50,7 @@ Examples and Dry Runs (where needed)
 | [0338-counting-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0693-binary-number-with-alternating-bits) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Math
 |  |
