@@ -51,6 +51,7 @@ Examples and Dry Runs (where needed)
 | [0371-sum-of-two-integers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Math
 |  |
@@ -73,6 +74,7 @@ Examples and Dry Runs (where needed)
 | [0371-sum-of-two-integers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
