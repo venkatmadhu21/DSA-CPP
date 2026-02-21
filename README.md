@@ -134,6 +134,7 @@ Examples and Dry Runs (where needed)
 | [0509-fibonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0740-delete-and-earn](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1137-n-th-tribonacci-number) |
@@ -382,6 +383,7 @@ Examples and Dry Runs (where needed)
 | [0729-my-calendar-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0759-set-intersection-size-at-least-two) |
@@ -478,6 +480,7 @@ Examples and Dry Runs (where needed)
 | [0652-find-duplicate-subtrees](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0652-find-duplicate-subtrees) |
 | [0690-employee-importance](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0720-longest-word-in-dictionary) |
+| [0740-delete-and-earn](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0904-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1016-subarray-sums-divisible-by-k) |
