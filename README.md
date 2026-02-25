@@ -275,6 +275,7 @@ Examples and Dry Runs (where needed)
 | [0134-gas-station](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0778-reorganize-string) |
@@ -373,6 +374,7 @@ Examples and Dry Runs (where needed)
 | [0540-single-element-in-a-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0645-set-mismatch) |
