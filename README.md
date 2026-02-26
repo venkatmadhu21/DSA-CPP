@@ -89,6 +89,7 @@ Examples and Dry Runs (where needed)
 | [1885-count-number-of-homogenous-substrings](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1925-count-square-sum-triples](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2288-count-operations-to-obtain-zero) |
@@ -287,6 +288,7 @@ Examples and Dry Runs (where needed)
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1762-furthest-building-you-can-reach) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkatmadhu21/DSA-CPP/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
