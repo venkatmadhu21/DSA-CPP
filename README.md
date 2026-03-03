@@ -128,6 +128,7 @@ Examples and Dry Runs (where needed)
 | [0198-house-robber](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0413-arithmetic-slices) |
@@ -362,6 +363,7 @@ Examples and Dry Runs (where needed)
 | [0240-search-a-2d-matrix-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
@@ -520,6 +522,7 @@ Examples and Dry Runs (where needed)
 | [0268-missing-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0456-132-pattern) |
