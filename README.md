@@ -344,6 +344,7 @@ Examples and Dry Runs (where needed)
 | [0120-triangle](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -465,6 +466,7 @@ Examples and Dry Runs (where needed)
 | [0036-valid-sudoku](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0169-majority-element) |
@@ -1018,6 +1020,7 @@ Examples and Dry Runs (where needed)
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0684-redundant-connection) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1319-number-of-operations-to-make-network-connected) |
