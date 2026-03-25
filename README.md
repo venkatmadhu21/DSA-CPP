@@ -406,6 +406,7 @@ Examples and Dry Runs (where needed)
 | [0944-delete-columns-to-make-sorted](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -776,6 +777,7 @@ Examples and Dry Runs (where needed)
 | [0684-redundant-connection](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0690-employee-importance) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -939,6 +941,7 @@ Examples and Dry Runs (where needed)
 | [0417-pacific-atlantic-water-flow](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0542-01-matrix) |
 | [0898-transpose-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0898-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1036-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/venkatmadhu21/DSA-CPP/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2625-increment-submatrices-by-one](https://github.com/venkatmadhu21/DSA-CPP/tree/master/2625-increment-submatrices-by-one) |
