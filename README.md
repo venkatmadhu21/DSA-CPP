@@ -178,6 +178,7 @@ Examples and Dry Runs (where needed)
 | [0387-first-unique-character-in-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0474-ones-and-zeroes) |
@@ -487,6 +488,7 @@ Examples and Dry Runs (where needed)
 | [0380-insert-delete-getrandom-o1](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0496-next-greater-element-i) |
@@ -980,6 +982,7 @@ Examples and Dry Runs (where needed)
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/venkatmadhu21/DSA-CPP/tree/master/0904-fruit-into-baskets) |
